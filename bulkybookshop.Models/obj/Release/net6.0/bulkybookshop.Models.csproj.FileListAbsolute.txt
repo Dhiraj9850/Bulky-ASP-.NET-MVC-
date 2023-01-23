@@ -1,0 +1,12 @@
+E:\.net project\bulkybookweb\bulkybookshop.Models\bin\Release\net6.0\bulkybookshop.Models.deps.json
+E:\.net project\bulkybookweb\bulkybookshop.Models\bin\Release\net6.0\bulkybookshop.Models.dll
+E:\.net project\bulkybookweb\bulkybookshop.Models\bin\Release\net6.0\bulkybookshop.Models.pdb
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.csproj.AssemblyReference.cache
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.AssemblyInfoInputs.cache
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.AssemblyInfo.cs
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.csproj.CoreCompileInputs.cache
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.dll
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\refint\bulkybookshop.Models.dll
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\bulkybookshop.Models.pdb
+E:\.net project\bulkybookweb\bulkybookshop.Models\obj\Release\net6.0\ref\bulkybookshop.Models.dll

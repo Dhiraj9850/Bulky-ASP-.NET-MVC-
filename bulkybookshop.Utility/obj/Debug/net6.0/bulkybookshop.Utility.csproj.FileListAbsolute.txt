@@ -1,0 +1,12 @@
+E:\.net project\bulkybookweb\bulkybookshop.Utility\bin\Debug\net6.0\bulkybookshop.Utility.deps.json
+E:\.net project\bulkybookweb\bulkybookshop.Utility\bin\Debug\net6.0\bulkybookshop.Utility.dll
+E:\.net project\bulkybookweb\bulkybookshop.Utility\bin\Debug\net6.0\bulkybookshop.Utility.pdb
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.csproj.AssemblyReference.cache
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.AssemblyInfoInputs.cache
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.AssemblyInfo.cs
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.csproj.CoreCompileInputs.cache
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.dll
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\refint\bulkybookshop.Utility.dll
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\bulkybookshop.Utility.pdb
+E:\.net project\bulkybookweb\bulkybookshop.Utility\obj\Debug\net6.0\ref\bulkybookshop.Utility.dll

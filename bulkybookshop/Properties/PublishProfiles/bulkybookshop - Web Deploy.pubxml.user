@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6TITLnu1WEmzX2a/JjwMpgAAAAACAAAAAAAQZgAAAAEAACAAAAABNBPFlfn1lCnffyK5O4OPRfFPL+Bp3jIOVulbfa8umAAAAAAOgAAAAAIAACAAAACec/GzG1fmLPe4cnWjvPUscO2yZVan972VPpJ4xjjiL4AAAAAEpmbdUS+RFIW0UQq/ysGo1dFI69G7LrwIq8ShGJCcO90lKDiBipiV64n5atTGUMQnKu9KN5h4R58Rdr+pilzmlf1vUZhea8oqGhBorS4E1cWTjxEH09fCgo6rdKteA3qfsqdnmm0ypfk+vjvDCZQH5OjcmTOA1/1BE5/pbP7sukAAAABPnaQYe0+6aBATdjEOaw3OpkpT6hOrHCsxhR2kZrtXXL8oNbmF0t55d2T92jTYC08d3JJrGnEkWIulNq26jSKd</EncryptedPassword>
+    <History>True|2023-01-21T14:32:05.3535264Z;True|2023-01-21T19:29:07.9740537+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:bulkyshopserver.database.windows.net,1433%3bInitial Catalog=bulkyshop_db%3bPersist Security Info=False%3bUser ID=admin-sql%3bPassword=Dhiraj%4055%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
